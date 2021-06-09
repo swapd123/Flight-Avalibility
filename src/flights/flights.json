@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "airline": "air india",
+    "number": "ai-202",
+    "from": "pune",
+    "to": "delhi",
+    "from_code": "PNQ",
+    "to_code": "DEL",
+    "depart_date": "14/06/2021-10:00 AM",
+    "arrive_date": "14/06/2021-23:00 PM",
+    "price": 9500
+  },
+  {
+    "id": 2,
+    "airline": "indigo",
+    "number": "ind-202",
+    "from": "hyderabad",
+    "to": "delhi",
+    "from_code": "HYD",
+    "to_code": "DEL",
+    "depart_date": "15/06/2021-10:00 AM",
+    "arrive_date": "15/06/2021-23:00 PM",
+    "price": 10500
+  }
+]
